@@ -1,0 +1,7 @@
+Course,Subject,Platoon,Instructor,Planned At,Duration (min),Venue,Notes
+CS-101,PROG-101,PLT-A,john.smith@example.com,2025-11-25T09:00:00,90,Room 101,Introduction to programming
+CS-101,ALGO-301,PLT-A,john.smith@example.com,2025-11-26T14:00:00,120,Lab 201,Algorithm practice
+MATH-201,CALC-201,PLT-B,jane.doe@example.com,2025-11-27T10:00:00,60,Room 305,Calculus fundamentals
+PHY-101,MECH-101,PLT-C,robert.johnson@example.com,2025-11-28T11:00:00,90,Physics Lab,Mechanics experiments
+CS-101,PROG-101,PLT-B,jane.doe@example.com,2025-11-29T09:00:00,90,Room 102,Programming basics for Platoon B
+
